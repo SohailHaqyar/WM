@@ -1,1 +1,1 @@
-# AwesomeWMConfig
+# WM
